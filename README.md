@@ -2,7 +2,7 @@
 A simple proof-of-concept CLI environment used to manage internal cloud-based server infrastructure
 
 # Instructions to Run aggiestack-CLI:
-A list of executable commands to run in the CLI is located in the config folder in the repository.
+A list of executable commands to run in the CLI is located in the "config_files" folder in the repository.
 
 ## UNIX/Linux CLI
 * navigate to directory of the "Project0.jar" executable
